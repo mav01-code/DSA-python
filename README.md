@@ -226,3 +226,126 @@
 - Build Heap
 - Heap Sort
 - `heapq` in Python
+
+## 📂 Data Structures (Advanced)
+
+### Bit Magic
+- Binary Representation of Negative Numbers
+- Bitwise Operators in Python Part 1
+- Bitwise Operators in Python Part 2
+- Check Kth bit is set or not
+- Count Set Bits
+- Find the only Odd
+- Power of 2
+- One Odd Occurring
+- Two odd occurring
+- Power Set using Bitwise
+
+### List
+- Left Rotate by d Places 
+- Maximum difference
+- Stock Buy and Sell - Part 1
+- Stock Buy and Sell - Part 2
+- Trapping Rain Water
+- Maximum Subarray Sum
+- Longest Even Odd Subarray
+- Maximum Circular Sum SubArray
+- Majority Element
+- Minimum Consecutive Flips
+- Sliding Window Technique
+- Subarray with Given Sum
+- Prefix Sum Technique
+- Equilibrium Point
+- Maximum Appearing Element in Ranges
+
+### Recursion
+- Rope Cutting Problem
+- Subset of a given string
+- Tower of Hanoi in Python
+- Josephus Problem in Python
+- Subset sum problem
+- Printing all Permutations
+
+### Searching
+- Search in an Infinite Sized Array
+- Search in a Sorted Rotated Array
+- Find a Peak Element
+- Count Occurrences in a Sorted Array
+- Two Pointers Approach
+- Triplet in a Sorted Array
+- Median of Two Sorted Arrays
+- Repeating Elements (Part 1)
+- Repeating Element (Part 2)
+- Allocate Minimum Pages (Naive Method)
+- Allocate Minimum Pages (Binary Search) 
+
+### Sorting
+- Overview of sorting algorithm
+- Tail Call Elimination in Quick Sort
+- Kth Smallest
+- Minimum Difference in an Array
+- Chocolate Distribution Problem
+- Sort an array with two types of element
+- Sort an array with three types of elements
+- Merge overlapping intervals
+- Meeting the maximum guests
+- Counting Sort
+- Cycle Sort
+- Radix Sort - Introduction
+- Radix Sort - Python Implementation
+- Bucket Sort - Introduction
+- Bucket Sort Implementation
+
+### Matrix
+- Multidimensional Array in Python
+- Passing a 2D array as argument in Python
+- Matrix in Snake Pattern
+- Matrix Boundary Traversal
+- Transpose of a Matrix
+- Rotate matrix anticlockwise by 90 degree
+- Spiral Traversal of matrix
+- Search in a row and column wise Sorted Matrix
+- Median of a row wise sorted matrix
+
+### Hashing
+- Intersection of two Arrays
+- Union of Two Unsorted array
+- Pair with given sum in Unsorted Array
+- Subarray with 0 sum in Python
+- Subarray with Given Sum
+- Check for Palindrome Permutation
+- Longest Subarray with given sum
+- Longest Subarray with equal number of zero and one
+- Longest Common Span with Same sum in Binary Array
+- Longest Consecutive Subsequence
+- Count distinct elements in every window
+- More than n/k Occurence
+- More than n/k Occurences (O(nk) solution)
+
+### String
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+### Linked List
+### Stack
+### Queue and Deque
+### Tree
+### Binary Search Tree
+### Heap
+### Graph
+### Greedy
+### Backtracking
+### Dynamic Programming
+### Trie
+### Segment and Binary Indexed Trees
+### Disjoint Set
